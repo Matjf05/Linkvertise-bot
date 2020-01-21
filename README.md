@@ -7,3 +7,8 @@ Instructions
 5. open a chrome page
 6. drag idle on the right
 7. start
+
+Libraries Installetion:
+open cmd
+type pip install PyQt5
+and type pip install pyautogui
